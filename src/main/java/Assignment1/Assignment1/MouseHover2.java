@@ -1,4 +1,6 @@
 package Assignment1.Assignment1;
+ 
+//triple navigation menu handling with mouse hover actions.
 
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.By;
